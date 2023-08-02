@@ -1,4 +1,6 @@
 FROM node:18
+LABEL authors="tikhon.ostapenko@yandex.ru"
+
 WORKDIR /app
 
 COPY package.json package.json
