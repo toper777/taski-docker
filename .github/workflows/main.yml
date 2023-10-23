@@ -199,4 +199,4 @@ jobs:
       with:
         to: ${{ secrets.TELEGRAM_TO }}
         token: ${{ secrets.TELEGRAM_TOKEN }}
-        message: Деплой проекта taski-docker успешно выполнен!
+        message: Деплой проекта taski-docker на GitHub успешно выполнен!
